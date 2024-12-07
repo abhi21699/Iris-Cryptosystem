@@ -3,7 +3,7 @@
 
 ## 🚀 Introduction
 
-This repository contains the implementation of my **Minor Project** titled **"Iris Recognition and Template Security using Fuzzy Vault"**, completed under the guidance of **Prof. Ashok K. Bhateja** at **IIT Delhi**. The project combines **biometric recognition** and **cryptographic security** to develop a robust, secure iris authentication system leveraging the **fuzzy vault framework**.
+The project combines **biometric recognition** and **cryptographic security** to develop a robust, secure iris authentication system leveraging the **fuzzy vault framework**.
 
 The project addresses challenges such as template security, intra-user variations, and privacy preservation. Experimental results demonstrate its high recognition accuracy and secure template storage, making it suitable for modern biometric authentication systems.
 
